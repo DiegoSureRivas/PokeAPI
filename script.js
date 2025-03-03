@@ -46,3 +46,4 @@ window.onload = function(){
     document.getElementById("pokemonInput2").calue = "4";
     buscarPokemon(2);
 }
+
